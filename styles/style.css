@@ -1,10 +1,10 @@
-html{overflow-y:scroll;} /* Forces a scrollbar when the viewport is larger than the websites content - CSS3 */
+html{overflow-y:scroll;}
 
-body{margin:0; 
-	padding:0; 
-	font-size:13px; 
-	font-family:Georgia, "Times New Roman", Times, serif; 
-	color:#919191; 
+body{margin:0;
+	padding:0;
+	font-size:13px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	color:#919191;
 	background-color:#232323;
 }
 
@@ -57,12 +57,12 @@ body{margin:0;
   cursor: pointer;
   transition: background .3s ease-in-out;
 }
-  
+
 
 #submit:hover {
   background: #d45d7d;
 }
-  
+
 
 input:focus {
   outline: none;
